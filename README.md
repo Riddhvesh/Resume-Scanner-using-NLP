@@ -1,6 +1,6 @@
 # Resume-Scanner-using-NLP
 
-# 📄 Resume Scanner using NLP
+#  Resume Scanner using NLP
 
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** to help you compare your resume with a job description and estimate how well it matches. It computes a **Resume Match Score (%)** using **TF-IDF and Cosine Similarity**.
 
